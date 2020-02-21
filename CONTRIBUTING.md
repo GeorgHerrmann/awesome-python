@@ -1,6 +1,6 @@
 # Contributing
 
-#"Bitte sende deine eMial"
+#"Bitte sende deine eMiall:"
 Your contributions are always welcome!
 
 ## Guidelines
